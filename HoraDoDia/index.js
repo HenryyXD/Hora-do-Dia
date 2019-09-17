@@ -1,6 +1,6 @@
 const h = new Date();
 
-var horas = 23;
+var horas = h.getHours();
 
 var img = document.querySelector('#image');
 var text = document.querySelector('#horas');
