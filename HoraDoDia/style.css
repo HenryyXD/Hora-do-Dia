@@ -1,0 +1,38 @@
+body{text-align: center;}
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50px;
+    font-weight: 900;
+    margin: 35px;
+    color: white;
+}
+#center{ 
+    margin: 0 auto;
+    width: 550px;
+    height: 375px;
+    background: white;
+    border-radius: 20px;
+    box-shadow: 7px 7px 1px rgba(0, 0, 0, 0.596);
+   
+}
+
+#image{
+    border-radius: 50%;
+    height: 260px;
+    width: 260px;
+}
+
+#horas{
+    padding: 25px;
+    margin: 15px 15px 5px 15px;
+    font-size: 28px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+small{
+    color:rgba(255, 255, 255, 0.719);
+    font-size: 15px;
+    margin-top: 50px;
+    display: inline-block;
+    font-style: italic;
+}
